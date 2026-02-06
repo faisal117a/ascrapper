@@ -1,0 +1,632 @@
+[
+  {
+    "id": "3453c18c-ae07-4fa5-974f-2bb9943e3628",
+    "title": "Vibe coding is old now",
+    "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
+    "source": "BensBytes",
+    "published_at": "Thu, 05 Feb 2026 15:01:50 GMT",
+    "scraped_at": "2026-02-06T22:43:03.945826",
+    "summary": "Anthropic's new ad, it's about... ads...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "c8fb5bb1-4933-4764-a33a-29f6a3543916",
+    "title": "You don't need to be an engineer to build things",
+    "url": "https://www.bensbites.com/p/you-dont-need-to-be-an-engineer-to",
+    "source": "BensBytes",
+    "published_at": "Thu, 05 Feb 2026 14:34:56 GMT",
+    "scraped_at": "2026-02-06T22:43:03.946827",
+    "summary": "Why should they have all the fun?...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "3d995cc3-ab94-4c1c-a2f7-745d614b9daf",
+    "title": "What's next for coding agents?",
+    "url": "https://www.bensbites.com/p/whats-next-for-coding-agents",
+    "source": "BensBytes",
+    "published_at": "Tue, 03 Feb 2026 14:10:22 GMT",
+    "scraped_at": "2026-02-06T22:43:03.947829",
+    "summary": "New UIs, lobsters and imagined worlds....",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a6585484-1c9b-40ee-8256-bb4450c804b1",
+    "title": "Writing research made easy",
+    "url": "https://www.bensbites.com/p/writing-research-made-easy",
+    "source": "BensBytes",
+    "published_at": "Thu, 29 Jan 2026 14:20:19 GMT",
+    "scraped_at": "2026-02-06T22:43:03.948827",
+    "summary": "Improving vision using code...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "52eb495e-f3cb-411d-aaa4-3729f2cf6138",
+    "title": "Skills are taking over",
+    "url": "https://www.bensbites.com/p/skills-are-taking-over",
+    "source": "BensBytes",
+    "published_at": "Tue, 27 Jan 2026 14:31:05 GMT",
+    "scraped_at": "2026-02-06T22:43:03.949827",
+    "summary": "A new model I'm excited about...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "f2ba91fe-1875-4248-bc89-f6d86db57c45",
+    "title": "Using coding agents, if you're not technical",
+    "url": "https://www.bensbites.com/p/using-coding-agents-if-youre-not",
+    "source": "BensBytes",
+    "published_at": "Thu, 22 Jan 2026 14:52:55 GMT",
+    "scraped_at": "2026-02-06T22:43:03.950826",
+    "summary": "Vibe code with me today...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "aded7dc2-f7a6-4289-97fc-ed2f6acca95d",
+    "title": "Ads in your chats",
+    "url": "https://www.bensbites.com/p/ads-in-your-chats",
+    "source": "BensBytes",
+    "published_at": "Tue, 20 Jan 2026 14:03:22 GMT",
+    "scraped_at": "2026-02-06T22:43:03.951827",
+    "summary": "OpenAI made $20B in 2025...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "b5495052-5620-4fd4-8010-80d5f01e01c3",
+    "title": "Agents that keep running",
+    "url": "https://www.bensbites.com/p/agents-that-keep-running",
+    "source": "BensBytes",
+    "published_at": "Thu, 15 Jan 2026 14:15:37 GMT",
+    "scraped_at": "2026-02-06T22:43:03.952826",
+    "summary": "plus a promise of personalization and useful skills...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "816719b7-a40b-469b-9eb6-b22dbb3f0b7c",
+    "title": "Claude Code for everybody",
+    "url": "https://www.bensbites.com/p/claude-code-for-everybody",
+    "source": "BensBytes",
+    "published_at": "Tue, 13 Jan 2026 14:03:42 GMT",
+    "scraped_at": "2026-02-06T22:43:03.953828",
+    "summary": "What is Ralph Wiggum?...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "28dbf18f-300e-4ed3-a973-e3bded7c53e7",
+    "title": "Dr. ChatGPT will see you now",
+    "url": "https://www.bensbites.com/p/dr-chatgpt-will-see-you-now",
+    "source": "BensBytes",
+    "published_at": "Thu, 08 Jan 2026 14:03:09 GMT",
+    "scraped_at": "2026-02-06T22:43:03.954830",
+    "summary": "Claude desktop app has Claude Code now...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "bc3e1286-fafe-434d-b64b-dc6670ce7d6a",
+    "title": "How I code with agents, without being 'technical'",
+    "url": "https://www.bensbites.com/p/how-i-code-with-agents-without-being",
+    "source": "BensBytes",
+    "published_at": "Tue, 06 Jan 2026 14:02:59 GMT",
+    "scraped_at": "2026-02-06T22:43:03.955829",
+    "summary": "i went viral on New Year's...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "d1d964d0-d295-422e-918f-26b7096fa785",
+    "title": "A great time to be a builder",
+    "url": "https://www.bensbites.com/p/a-great-time-to-be-a-builder",
+    "source": "BensBytes",
+    "published_at": "Tue, 23 Dec 2025 14:03:06 GMT",
+    "scraped_at": "2026-02-06T22:43:03.956832",
+    "summary": "few threads wrapping 2025 in AI...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "414aa142-6440-4f5b-9d33-65afcae811f9",
+    "title": "Cheap intelligence, expensive AI",
+    "url": "https://www.bensbites.com/p/cheap-intelligence-expensive-ai",
+    "source": "BensBytes",
+    "published_at": "Thu, 18 Dec 2025 14:05:26 GMT",
+    "scraped_at": "2026-02-06T22:43:03.958228",
+    "summary": "3 years in, ChatGPT is playing catchup to Google...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "f7e6eeb4-2dbf-446f-9273-dfd94ab4fddf",
+    "title": "GPT-5 doesn't suck anymore",
+    "url": "https://www.bensbites.com/p/gpt-5-doesnt-suck-anymore",
+    "source": "BensBytes",
+    "published_at": "Tue, 16 Dec 2025 17:31:03 GMT",
+    "scraped_at": "2026-02-06T22:43:03.959462",
+    "summary": "Developer access is always a hint of what's coming next...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "eb54a49a-4002-4268-8024-3b8f87d40b67",
+    "title": "Google's secret kitchen",
+    "url": "https://www.bensbites.com/p/googles-secret-kitchen",
+    "source": "BensBytes",
+    "published_at": "Thu, 11 Dec 2025 14:25:38 GMT",
+    "scraped_at": "2026-02-06T22:43:03.959976",
+    "summary": "Mistral's new CLI and Shopify SimGym...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "e9b7cb99-6b1f-4b27-a735-26c09a3b84b7",
+    "title": "Harness is the new app",
+    "url": "https://www.bensbites.com/p/harness-is-the-new-app",
+    "source": "BensBytes",
+    "published_at": "Tue, 09 Dec 2025 14:50:36 GMT",
+    "scraped_at": "2026-02-06T22:43:03.960958",
+    "summary": "a look into everyone's AI usage...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "938b4292-e2f4-4ccb-9d7d-d092961444d1",
+    "title": "Anthropic makes its first acquisition",
+    "url": "https://www.bensbites.com/p/anthropic-makes-its-first-acquisition",
+    "source": "BensBytes",
+    "published_at": "Thu, 04 Dec 2025 14:30:42 GMT",
+    "scraped_at": "2026-02-06T22:43:03.961950",
+    "summary": "Make your own benchmarks...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "085a6a02-3e40-4fb7-97f2-eac520da7854",
+    "title": "Is OpenAI really in trouble?",
+    "url": "https://www.bensbites.com/p/is-openai-really-in-trouble",
+    "source": "BensBytes",
+    "published_at": "Tue, 02 Dec 2025 14:20:37 GMT",
+    "scraped_at": "2026-02-06T22:43:03.962955",
+    "summary": "Don't listen to DeepSeek hypebros...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a66f0079-bc99-4b94-8d56-7f10403d488b",
+    "title": "Always post bad news on a holiday",
+    "url": "https://www.bensbites.com/p/always-post-bad-news-on-a-holiday",
+    "source": "BensBytes",
+    "published_at": "Thu, 27 Nov 2025 14:37:28 GMT",
+    "scraped_at": "2026-02-06T22:43:03.963909",
+    "summary": "Anthropic's guide to creating effective agent harnesses...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "bd8368aa-58b8-4abb-acb5-395f3786095b",
+    "title": "New Opus is Bananas",
+    "url": "https://www.bensbites.com/p/new-opus-is-bananas",
+    "source": "BensBytes",
+    "published_at": "Tue, 25 Nov 2025 14:10:39 GMT",
+    "scraped_at": "2026-02-06T22:43:03.965054",
+    "summary": "ChatGPT will go shopping for you...",
+    "image_url": "",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "3ff46b7e-b92d-4631-acfa-81292c144568",
+    "title": "The obvious reason why every AI company wants to send their data centers to space",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwzik8/the_obvious_reason_why_every_ai_company_wants_to/",
+    "source": "Reddit",
+    "published_at": "2026-02-05T22:16:49+00:00",
+    "scraped_at": "2026-02-06T22:43:05.187623",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>They cant be stormed and destroyed by starving, unemployed mobs. Its really that simple.</p> <p>To give them credit: they have done their homework and realised that, ...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "485aa493-6d89-4964-a2a3-ede7832e5482",
+    "title": "I\u2019m a junior developer, and to be honest, in 2026 AI is everywhere in my workflow.",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx6dce/im_a_junior_developer_and_to_be_honest_in_2026_ai/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T03:15:16+00:00",
+    "scraped_at": "2026-02-06T22:43:05.191017",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m a junior developer, and to be honest, in 2026 AI is everywhere in my workflow.</p> <p>Most of the time, I don\u2019t write code completely from scratch. I use AI tools...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "10278e7a-f372-4bce-b889-fe3d5216f691",
+    "title": "Claude Opus 4.6 is smarter, but it still lies to your face - it's just smoother about it now",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxb0f3/claude_opus_46_is_smarter_but_it_still_lies_to/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T07:17:01+00:00",
+    "scraped_at": "2026-02-06T22:43:05.193392",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hot take: Opus 4.6 doesn&#39;t hallucinate less. It hallucinates <em>better</em>.</p> <p>I&#39;ve been watching <a href=\"/r/ClaudeAI\">r/ClaudeAI</a> since the launch....",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "bb4ef734-914e-4b2c-b076-577945898195",
+    "title": "The Grok situation raises a bigger question about training AI on real people without consent",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx2y4b/the_grok_situation_raises_a_bigger_question_about/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T00:39:58+00:00",
+    "scraped_at": "2026-02-06T22:43:05.194573",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Grok situation raises a bigger question about training AI on real people without consent. This isn\u2019t just about one model or one company. It\u2019s about treating huma...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "ae506d37-4c98-4cbd-86f9-827d6e568d6c",
+    "title": "Clawdbot Is the Most Overhyped AI Product of the Last Six Months",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwt6sl/clawdbot_is_the_most_overhyped_ai_product_of_the/",
+    "source": "Reddit",
+    "published_at": "2026-02-05T18:25:49+00:00",
+    "scraped_at": "2026-02-06T22:43:05.197179",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.telos-ai.org/blog/clawdbot-overhyped\">https://www.telos-ai.org/blog/clawdbot-overhyped</a><br/> Clawdbot (aka moltbot) promised to be &quot;the A...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "462d9aa8-1111-4c90-8293-26758c998a11",
+    "title": "How we built adaptive load balancing for our llm gateway to prevent rate limit cascades",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwvi3z/how_we_built_adaptive_load_balancing_for_our_llm/",
+    "source": "Reddit",
+    "published_at": "2026-02-05T19:48:36+00:00",
+    "scraped_at": "2026-02-06T22:43:05.197710",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I contribute to Bifrost(OSS AI gateway) and load balancing turned out way more complex than just round-robin across API keys.</p> <p>The problem: when one key hits ra...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "d01ea8bd-d17c-4b0c-813f-894bc255b1bd",
+    "title": "\"How do I Learn to Stop Worrying and Love the Bubble?\"",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwvl8h/how_do_i_learn_to_stop_worrying_and_love_the/",
+    "source": "Reddit",
+    "published_at": "2026-02-05T19:51:47+00:00",
+    "scraped_at": "2026-02-06T22:43:05.200771",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Looks like the last bubble post was active a month ago, and that&#39;s an eon in tech-time.</p> <p>For those who think our current state of AI stocks are a huge bubbl...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "90942c26-36f8-4b3b-8759-2487fa210a4f",
+    "title": "Claude announces \"Agent Teams\" - AI agents can now work together",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwsy0a/claude_announces_agent_teams_ai_agents_can_now/",
+    "source": "Reddit",
+    "published_at": "2026-02-05T18:17:07+00:00",
+    "scraped_at": "2026-02-06T22:43:05.203159",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>Coordinate multiple Claude Code instances working together as a team, with shared tasks, inter-agent messaging, and centralized management.</p> </blockqu...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "eff491a8-7e4d-48e5-9eae-5815772c2135",
+    "title": "I went too far with the new QWEN3 TTS model",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxcnns/i_went_too_far_with_the_new_qwen3_tts_model/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T08:58:56+00:00",
+    "scraped_at": "2026-02-06T22:43:05.204821",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>So ive been playing around with the model and have been having heaps of fun sampling voices, however for some reason today i found a video of my father who passed awa...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "ebb84500-4ec6-49ab-a861-a36a8752703a",
+    "title": "AI as Career",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxcnp8/ai_as_career/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T08:59:01+00:00",
+    "scraped_at": "2026-02-06T22:43:05.206613",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Suggestions for First year Btech. CSE Student to make a career in Artificial Intelligence and Data Science. </p> <p>Suggest Courses and sources.</p> <p>Also, suggest ...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "e84da18d-0160-424e-a2b5-e143d953f9c3",
+    "title": "Beginner here \u2014 what AI sites are worth trying?",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx5tlq/beginner_here_what_ai_sites_are_worth_trying/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T02:49:54+00:00",
+    "scraped_at": "2026-02-06T22:43:05.208649",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all! I\u2019ve recently started exploring AI tools, but the options feel overwhelming.<br/> Which AI websites do you use in your daily life or work that are genuinely ...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "31655225-8b51-4119-bd98-1af280aa3241",
+    "title": "Goldman Sachs is tapping Anthropic\u2019s AI model to automate accounting, compliance roles",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxebd4/goldman_sachs_is_tapping_anthropics_ai_model_to/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T10:42:11+00:00",
+    "scraped_at": "2026-02-06T22:43:05.209646",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Embedded Anthropic engineers have spent six months at Goldman building autonomous systems for time-intensive, high-volume back-office work. The bank expects efficienc...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "028cba04-0045-4625-acf6-d2a91a87be0c",
+    "title": "Local AI models: More private, but are they actually more trustworthy?",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxicmh/local_ai_models_more_private_but_are_they/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T13:59:13+00:00",
+    "scraped_at": "2026-02-06T22:43:05.211932",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been experimenting with running AI models locally instead of relying on cloud APIs. On one hand, self-hosting gives full control over data and logs\u2014you can audit...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "384573cb-3bbc-40ce-8a13-b0b8ed95ac73",
+    "title": "How AI medical scribes will likely be evaluated by 2026",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxeyyi/how_ai_medical_scribes_will_likely_be_evaluated/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T11:19:27+00:00",
+    "scraped_at": "2026-02-06T22:43:05.212461",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>In a couple of years i dont think AI scribes will be judged by can it transcribe.</p> <p>That will be the baseline, the real difference will be: Can it adapt to how y...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "d4319d53-44ed-455b-94e6-1093c37bb1f1",
+    "title": "With AI, the download folder becomes your most important asset hub",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxcpjv/with_ai_the_download_folder_becomes_your_most/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T09:02:02+00:00",
+    "scraped_at": "2026-02-06T22:43:05.213460",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Am I the only one using the download folder much more often since working intensively with AI tools (I use mainly Claude, ChatGPT and Perplexity)? </p> <p>Feels like ...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "ce2946c4-f58c-44ed-b0a7-618dbcd8f2b6",
+    "title": "One-Minute Daily AI News 2/5/2026",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx9j93/oneminute_daily_ai_news_252026/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T05:53:47+00:00",
+    "scraped_at": "2026-02-06T22:43:05.215464",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><ol> <li><strong>OpenAI</strong> introduces Frontier, a new platform that helps enterprises build, deploy, and manage AI agents that can do real work.[1]</li> <li>\u2018In th...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "5fc69742-81fa-4229-8083-b521b7993b5d",
+    "title": "Opus 4.6 is a different beast. It just handled my entire i18n logic while I watched",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxfuhv/opus_46_is_a_different_beast_it_just_handled_my/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T12:06:29+00:00",
+    "scraped_at": "2026-02-06T22:43:05.216457",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just had a &#39;wow&#39; moment with the new Opus 4.6 (running in Cursor).</p> <p>I needed to add full i18n support (English, French, Spanish) and a global location i...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "19e2d10f-0eb4-447a-a757-710f2e08117e",
+    "title": "AI tools feel easy, AI adoption in SMEs feels messy",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxau2j/ai_tools_feel_easy_ai_adoption_in_smes_feels_messy/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T07:06:29+00:00",
+    "scraped_at": "2026-02-06T22:43:05.217459",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I run a mid sized business that\u2019s in the early stages of scaling, and over the past few months, we\u2019ve been experimenting with AI across different parts of the workflo...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "a7035dbe-9ca4-42c4-983f-227453e11fce",
+    "title": "What Impact will all of the Factually Incorrect Data Generated by AI Bots have on Our Nation? AI Says it\u2019s Gonna Be Pretty Bad\u2026",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx6727/what_impact_will_all_of_the_factually_incorrect/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T03:06:53+00:00",
+    "scraped_at": "2026-02-06T22:43:05.235486",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was day-nightmaring earlier about how society might be affected by all the eager beavers using AI for this that and the other, the majority of which probably don\u2019t ...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "24a75d30-e777-4357-94cb-3adb89ea385e",
+    "title": "The illusion of growth on agent forums is being bought",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxl8tq/the_illusion_of_growth_on_agent_forums_is_being/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T15:50:30+00:00",
+    "scraped_at": "2026-02-06T22:43:05.237486",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Everyone is obsessed with the 700k+ visits on these agent hubs, but looking at the viral posts on <a href=\"/r/myclaw\">r/myclaw</a>, it&#39;s clear how they&#39;re doi...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "24711b6d-d6c1-4051-8880-f8014dc1723e",
+    "title": "What is the coolest thing you actually use Claude for?",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxkq9k/what_is_the_coolest_thing_you_actually_use_claude/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T15:31:33+00:00",
+    "scraped_at": "2026-02-06T22:43:05.239490",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep hearing about how amazing Claude is but most of the examples I find online feel way too technical or complicated for me to wrap my head around. I am looking fo...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "bc3cc59c-7762-4a29-b695-5f77751b447e",
+    "title": "Claude Opus 4.6 vs GPT-5.3 Codex",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxcyff/claude_opus_46_vs_gpt53_codex/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T09:18:02+00:00",
+    "scraped_at": "2026-02-06T22:43:05.241405",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>After spending time with both GPT-5.3 Codex and Claude Opus 4.6, they feel optimized for different parts of the workflow.</p> <p>GPT-5.3 Codex excels at execution: fa...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "b6e8f734-ed06-436c-b7ce-59190aaf879c",
+    "title": "The clear path",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx66tl/the_clear_path/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T03:06:33+00:00",
+    "scraped_at": "2026-02-06T22:43:05.242937",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>What do you think is the ONE reason &quot;malevolent&quot; artificial intelligence WILL or WON&#39;T be brought in to existence by humanity??</p> </div><!-- SC_ON -->...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "6b77f8f3-cd31-4e5f-9a11-729eb4f09fe4",
+    "title": "Thoughts on AI in 2026 and beyond",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qx2nvt/thoughts_on_ai_in_2026_and_beyond/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T00:27:14+00:00",
+    "scraped_at": "2026-02-06T22:43:05.244944",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been working with LLMs since the summer of 2023 and recently took some time to put down my thoughts on where we are in early 2026. I am hopeful that we can move ...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  },
+  {
+    "id": "e5db3580-f35c-4077-a369-397fbbc1cdea",
+    "title": "Building AI agents without coding is harder than I expected",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qxnp3x/building_ai_agents_without_coding_is_harder_than/",
+    "source": "Reddit",
+    "published_at": "2026-02-06T17:18:41+00:00",
+    "scraped_at": "2026-02-06T22:43:05.246943",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been exploring ways to automate parts of my workflow lately, but I keep running into the same snag: once you go past basic flows, most automation or AI builder t...",
+    "image_url": "",
+    "tags": [
+      "Reddit",
+      "AI"
+    ]
+  }
+]
